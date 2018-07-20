@@ -46,6 +46,19 @@ navigation_stubs:
 breadcrumb_extra_title: DNA Testing
 breadcrumb_extra_link: /dna-testing
 ---
+(setq markdown-xhtml-header-content
+      "<style type='text/css'>
+a { text-decoration: none; }
+a:hover { text-decoration: underline; }
+</style>")
+
+
+- [x] Task one
+- [x] Task Two
+- [x] Task Three
+- [ ] Task Four
+
+
 MyHeritage DNA is a division of one of the largest genealogy sites, MyHeritage. Over 95 million people use their ancestry service and DNA testing is becoming an increasingly important part of their customers research. [MyHeritage DNA](https://www.myheritage.com/) only offers autosomal testing, which tends to be the most useful for connecting you with fairly close relatives and exploring your ethnic heritage.
 
 An interesting comparison, because there are certain aspects of each company's offering that the other company doesn't really touch at all.
