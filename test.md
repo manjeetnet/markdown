@@ -49,7 +49,7 @@ breadcrumb_extra_link: /dna-testing
 (setq markdown-xhtml-header-content
       "<style type='text/css'>
 a { text-decoration: none; }
-a:hover { text-decoration: underline; }
+a:hover { text-decoration: underline; color:RED; }
 </style>")
 
 
